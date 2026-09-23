@@ -8,16 +8,15 @@
 // ============================================================
 
 // ---------------- WIFI ----------------
-#define WIFI_SSID       "RPK_2"
-#define WIFI_PASSWORD   "r3pl4st1k4"
+#define WIFI_SSID       "***"
+#define WIFI_PASSWORD   "***"
 
 // ---------------- INFLUXDB ----------------
 // Usa el mismo servidor que YG. No se modifica el servidor.
 #define INFLUXDB_URL    "http://192.168.1.10:8086"
-#define INFLUXDB_ORG    "96d3ad090d8d4966"
-#define INFLUXDB_BUCKET "replastika"
-//#define INFLUXDB_TOKEN  "nplZr9P5-IulYoFiCu530GEa2duxYAo-M0IrGimZ2BjoIKEFf9w7QjmgW-lmb55FtJQgWvOWBe_pgg3Zpn6Oxw=="
-#define INFLUXDB_TOKEN  "uEf9j8VytIDlvUEQ9td6_feZaVHPtgjwv8Q4GGahioNrW-qVId6_SmXrdBUq3FPCfoGC0oILtMoW6eUcJ1JKsw=="
+#define INFLUXDB_ORG    "***"
+#define INFLUXDB_BUCKET "***"
+#define INFLUXDB_TOKEN  "***"
 
 // ---------------- IDENTIDAD ----------------
 #define DEVICE_NAME       "MAQSENSE-FABRICA"
